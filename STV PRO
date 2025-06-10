@@ -5,8 +5,8 @@
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5EwNq3hgPikJGtLtjVdxs-Ux1NxD80e0zgVE6dbVEhSTdZWZ5cjOrMHc&s=10" Group-title="FIFA WORLD CUP QUALIFIERS 26", CH1
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://midcache.rctiplus.id/hdlive2/inavsjapan20250610_540p/index.m3u8
 
 
