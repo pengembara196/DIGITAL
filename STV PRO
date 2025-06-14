@@ -30,19 +30,21 @@ https://files.catbox.moe/4h8bem.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeii4JbcIShTVYmTVM2XaUEqJlkA3AvqnXyT_XHh6POMvD50uMmDC0j-YI&s=10" Group-title="UEFA EUROPEAN U21 CHAMPIONSHIP 2025", SERVER 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://files.catbox.moe/4h8bem.mp4
+https://v4-676ad5a9989e794593dec534489c2d49.livehwc4.com/pull.chaojiumq.com/live/sd-1-4258401.m3u8?txTime=684d9cd6&txSecret=3a35fac7fe2646c6686984a2fe20144b&edge_slice=true&sub_m3u8=true&user_session_id=d68d70867eeb6cc90c203baf49025cab
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeii4JbcIShTVYmTVM2XaUEqJlkA3AvqnXyT_XHh6POMvD50uMmDC0j-YI&s=10" Group-title="UEFA EUROPEAN U21 CHAMPIONSHIP 2025", SERVER 2
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://files.catbox.moe/4h8bem.mp4
+https://live.jiatianxiazhuangshi.com/live/56155537_e048fe6003d5c76e3807505c745fdea9_nsd.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeii4JbcIShTVYmTVM2XaUEqJlkA3AvqnXyT_XHh6POMvD50uMmDC0j-YI&s=10" Group-title="UEFA EUROPEAN U21 CHAMPIONSHIP 2025", SERVER 3
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://files.catbox.moe/4h8bem.mp4
+https://fhlsport121.fjs40b8.xyz/token-Jhd6ybWUePGGuGQql%2FY6mD%2BDlJrUjCvjZSD8k6YcGWLy4uPKHUFdDoMlrR1IWEhJBCeIwDdmmvw%3Da/cfall/s2/v3b/6p422on0nUE0pUZ6Yl9fnKMyL2EhYaW1oKAjo3W0YzAioD%3D%3D/stream/23/chunks.m3u8
+
+
 
 
 
@@ -1943,7 +1945,55 @@ http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/31694
 
 
 
-    =======CANAL+ SPORT=====
+            =======ASTRO SPORT=====
+
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="ASTRO SUPERSPORT",Astro Arena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://tvking6282.cloud/$k0detv9626/Astro/AstroArenaHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="ASTRO SUPERSPORT",Astro Arena 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://tvking6282.cloud/$k0detv9626/Astro/AstroArenaHD2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola.png" group-title="ASTRO SUPERSPORT",AstroArenaBola1
+http://tvking6282.cloud/$k0detv9626/Astro/AstroArenaBola1-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola2.png" group-title="ASTRO SUPERSPORT",AstroArenaBola2
+http://tvking6282.cloud/$k0detv9626/Astro/AstroArenaBola2-HD.m3u8
+
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro Football HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Football.png" group-title="ASTRO SUPERSPORT",Astro Football HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://tvking6282.cloud/$k0detv9626/Astro/AstroFotball.m3u8
+
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro Grandstand HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Grandstand.png" group-title="ASTRO SUPERSPORT",Astro Grandstand HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://tvking6282.cloud/$k0detv9626/Astro/AstroGrandStandHD.m3u8
+
+#EXTINF:-1 tvg-id="154.astro" tvg-name="Astro Premier League 1 HD" tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague.png" group-title="ASTRO SUPERSPORT",Astro Premier League 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://tvking6282.cloud/$k0detv9626/Astro/AstroPremierLeague1HD.m3u8
+
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro Premier League 2 HD" tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague2.png" group-title="ASTRO SUPERSPORT",Astro Premier League 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://tvking6282.cloud/$k0detv9626/Astro/AstroPremierLeague2HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus1.png" group-title="ASTRO SUPERSPORT",AstroSportPlus1
+http://tvking6282.cloud/$k0detv9626/Astro/AstroSportPlus1-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus2.png" group-title="ASTRO SUPERSPORT",AstroSportPlus2
+http://tvking6282.cloud/$k0detv9626/Astro/AstroSportPlus2-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="ASTRO SUPERSPORT",AstroBadminton1
+http://tvking6282.cloud/$k0detv9626/Astro/AstroBadminton-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton2.png" group-title="ASTRO SUPERSPORT",AstroBadminton2
+http://tvking6282.cloud/$k0detv9626/Astro/AstroBadminton2-HD.m3u8
+
+
+
+
+            =======CANAL+ SPORT=====
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="https://lo1.in/pol/cs.png" group-title="CANAL+ SPORT",CANAL+ 01
 #EXTVLCOPT:http-referrer=http://azers.online/
