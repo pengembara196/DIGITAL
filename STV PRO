@@ -6,7 +6,7 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6x1WonRpJ3QSezBQeipn--5m-o4-FiimFNyfuXb1RUGeE9w5oBDiVinQC&s=10" Group-title="FIFA CLUB WORLD CUP 2025", SERVER 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://files.catbox.moe/4h8bem.mp4
+https://live-us1.thaimomo.com/live-as/chmono29-2/chunklist_w321634835.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6x1WonRpJ3QSezBQeipn--5m-o4-FiimFNyfuXb1RUGeE9w5oBDiVinQC&s=10" Group-title="FIFA CLUB WORLD CUP 2025", SERVER 2
@@ -1520,7 +1520,7 @@ https://wind.iosplayer.ru/wind/premium50/mono.m3u8
 https://wind.iosplayer.ru/wind/premium129/mono.m3u8
 
 #EXTINF:-1 tvg-name="PPTV HD" tvg-id="PPTV HD.th" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a0/PPTV_HD_36.png" group-title="PREMIUM SPORT", PPTV HD
-https://edge2a.v2h-cdn.com/hd_pptv/hd_pptv.stream/playlist.m3u8
+http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
 
 #EXTINF:0 tvg-name="US | Fox Sports 1 HD" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_sports_us_1.png" group-title="PREMIUM SPORT", FOX SPORTS 1 HD
 http://kstv.us:8080/live/tH300gvHff/8606073792/15948.m3u8
