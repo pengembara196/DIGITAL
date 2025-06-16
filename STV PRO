@@ -12,13 +12,13 @@ https://live-us1.thaimomo.com/live-as/chmono29-2/chunklist_w321634835.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6x1WonRpJ3QSezBQeipn--5m-o4-FiimFNyfuXb1RUGeE9w5oBDiVinQC&s=10" Group-title="FIFA CLUB WORLD CUP 2025", SERVER 2
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://svy2.dbcast.live/5YFuguOH-CRvyLfaPz-vvA/1749975927/3138322e332e37322e323339/ff444/playlist.m3u8
+https://bvy1.dbcast.live/dQeuUoHL0yWJdOFKb5x2wg/1750131270/3138322e332e37322e3432/ff626/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6x1WonRpJ3QSezBQeipn--5m-o4-FiimFNyfuXb1RUGeE9w5oBDiVinQC&s=10" Group-title="FIFA CLUB WORLD CUP 2025", SERVER 3
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://3gr5dgmttgha1hct1gyzdrpb1fia8k5dcq731435ucczgo6djpahu1.100ycdn.com/pullws-gsc.hxin99.com/live/dps-59214596-saturn-wsu/playlist.m3u8?wsSecret=e022de92675d1dc42178c6be59ce1869&wsABSTime=684e538c&wsSession=ab2442b4d19526d87b58abe0-174994719161780&wsIPSercert=6f324d4e9785edbb7075470b4fddae6f&wsiphost=local&wsBindIP=1
+https://bvy2.dbcast.live/z84iaxhCuEXTv_UYTCuJjQ/1750131332/3138322e332e37322e3432/ff622/playlist.m3u8
 
 
 
@@ -127,7 +127,7 @@ https://jn224.sportvideodata.com/1621233040_QM6YTO4gzNwYTN/p2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8zj2wv7tQoGLkoXtAlq7z0gwBBqFoCW0EvQ&s" Group-title="VOLLEYBALL NATIONS LEAGUE 2025", SERVER 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://fhlsport121.fjs40b8.xyz/token-cUMonbGcfPKG6mMqxfY6yGPWlMPW1nvjP3f7lalPEWGm5uKfHUFdDoMlqRZOVU1JBCeIwDdmmvw%3Da/cfall/s2001/v3b/o98so803nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_606000.m3u8
+https://fhlsport121.fjs40b8.xyz/token-JBUtmeGVIfGGuDQulfY6kGrVlJuD0yjjP3Srz%2FdMEzby4%2BaZHUFdDoMlqhRAWUVJBCeIwDdmmvw%3Da/cfall/s2001/v3b/1snpo612nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_606078.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8zj2wv7tQoGLkoXtAlq7z0gwBBqFoCW0EvQ&s" Group-title="VOLLEYBALL NATIONS LEAGUE 2025", SERVER 2
@@ -1102,11 +1102,11 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mp
 #KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
 https://dsgtq5sngxkde.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
 #EXTINF:0 group-title="PREMIUM MOVIE" tvg-logo="http://go4.pw/SINGAPORE/ROCK_ACTION.png",Rock Action
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=8121
-https://tvkitastream.my.id/vidio-sewa/dash.php/.mpd?id=8121
+https://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&userid=lite&chname=ROCK_Action
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
@@ -1135,10 +1135,10 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 #KODIPROP:inputstream.adaptive.license_key=c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c
 https://d1abp075u76pbq.cloudfront.net/live/eds/AXN/sa_dash_vmx/AXN.mpd|Referer=https://www.visionplus.id/
 
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
 #EXTINF:-1 group-title="PREMIUM MOVIE" tvg-logo="https://github.com/Qingtvnew/test/raw/main/Thrill.png", Thrill
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161
-https://dsgtq5sngxkde.cloudfront.net/live/eds/Thrill/sa_dash_vmx/Thrill.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+https://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8?app_type=web&userid=lite&chname=Thrill
 
 #EXTINF:-1 group-title="PREMIUM MOVIE" tvg-logo="https://github.com/Qingtvnew/test/raw/main/kix.png", KIX 
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -1211,8 +1211,9 @@ https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BgSPo1W.png" group-title="PREMIUM MOVIE",BIOSKOP INDONESIA
-#EXTVLCOPT:http-user-agent=xplayer168
-https://dl.dropboxusercontent.com/scl/fi/b69ti90sskfigr3uhzv3a/bioskopindonesia.m3u8?rlkey=1lb1mfwwvmfdwjq5rsqmopoky&st=140p79n3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
 #EXTINF:-1 tvg-id="chinese drama" tvg-logo="https://i.imgur.com/NLMxZ86.png" group-title="PREMIUM MOVIE",CHINESE DRAMA
 #EXTVLCOPT:http-user-agent=avengers21
