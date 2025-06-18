@@ -1,14 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj4cSrcEr4cQYlXc-Rfn01Dtc9jE379YprVq-nUEY-HDUy2iNt5r8xrooI&s=10" Group-title="MTQ MANDIANGIN TIMUR 2025", MTQ MANTIM 2025
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://video.fdjb2-1.fna.fbcdn.net/hvideo-hil-prn/_nc_cat-107/_nc_sr_t-4/v/rASchyG6nH0GATHnB1pFBq4FipHPp7jQ3Ng-qZORvP0mhGg/_nc_ohc-BEOOMqomkCkQ7kNvwFZgPRb/live-dash/dash-abr-ibr-audio/1047563407559725.mpd?_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AfNRpVT76glL_48pquVui7_MOzaTBPjYcwD0kmfmkD5CGQ&oe=6854A84A
-
-
-
-
 
 
                 ==========FIFA CLUB WORLD CUP 2025=======
@@ -41,19 +33,22 @@ https://uvb2.dbcast.live/UeE-ysql45lCjRuei3y-mA/1750292900/3136322e3234352e31383
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeii4JbcIShTVYmTVM2XaUEqJlkA3AvqnXyT_XHh6POMvD50uMmDC0j-YI&s=10" Group-title="UEFA EUROPEAN U21 CHAMPIONSHIP 2025", SERVER 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://hls.zb252398829.com/sport/202_3680212_1/playlist.m3u8?wsSecret=e3f3ee00e7319248341ec553ea5d97ad&wsABSTime=68791ebe
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj4cSrcEr4cQYlXc-Rfn01Dtc9jE379YprVq-nUEY-HDUy2iNt5r8xrooI&s=10" Group-title="MTQ MANDIANGIN TIMUR 2025", MTQ MANTIM 2025
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
+https://video.fdjb2-1.fna.fbcdn.net/hvideo-hil-prn/_nc_cat-107/_nc_sr_t-4/v/rASchyG6nH0GATHnB1pFBq4FipHPp7jQ3Ng-qZORvP0mhGg/_nc_ohc-BEOOMqomkCkQ7kNvwFZgPRb/live-dash/dash-abr-ibr-audio/1047563407559725.mpd?_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AfNRpVT76glL_48pquVui7_MOzaTBPjYcwD0kmfmkD5CGQ&oe=6854A84A
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeii4JbcIShTVYmTVM2XaUEqJlkA3AvqnXyT_XHh6POMvD50uMmDC0j-YI&s=10" Group-title="UEFA EUROPEAN U21 CHAMPIONSHIP 2025", SERVER 2
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://hls.zb252398829.com/sport/202_3680205_1/playlist.m3u8?wsSecret=4c925ef7cb93fb5157481de508ef75e2&wsABSTime=68791f1b
+https://hls.zb252398829.com/sport/202_3681617_1/playlist.m3u8?wsSecret=c7e40ffba7c996690e966aff5b6ef208&wsABSTime=687a7154
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeii4JbcIShTVYmTVM2XaUEqJlkA3AvqnXyT_XHh6POMvD50uMmDC0j-YI&s=10" Group-title="UEFA EUROPEAN U21 CHAMPIONSHIP 2025", SERVER 3
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://fhlsport121.fjs40b8.xyz/token-JhUqmrHAKaeG6TApwfY6zDiBlMDUhCnjOSD5x%2FcdRmKk47fLHUFdDoMlrRxKWUhJBCeIwDdmmvw%3Da/cfall/s2/v3b/6p422on0nUE0pUZ6Yl9fnKMyL2EhYaW1oKAjo3W0YzAioD%3D%3D/stream/23/chunks.m3u8
+https://hls.zb252398829.com/sport/202_3681616_1/playlist.m3u8?wsSecret=e39485c7fe59884f7f50fce1aae30ded&wsABSTime=687a718e
 
 
 
@@ -138,13 +133,13 @@ https://fhlsport121.fjs40b8.xyz/token-dkF6k7SQKPaG7mV%2BwfY6kWPXlJvUjCnjPiaol6FH
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ID3cNX5MkSkdvHoO_Igk1sdSv_g=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/18954/volleyball-nations-league-cover-d06332.jpg" Group-title="VOLLEYBALL NATIONS LEAGUE 2025", SERVER 1
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/18954/file/hls-p/ingest_18954_360p/hdntl=exp=1750260418~acl=%2fstream%2f18954%2ffile%2f*~id=177941483~data=hdntl~hmac=f0c5f59850493732ab397b8c84f29371b53819ab201f933748fee4a0a35209b2/index.m3u8
+https://fhlsport121.fjs40b8.xyz/token-cUJ7yrmcKaWG7mQhlfY6mG%2FVlJvRjC3jbSCiwKUcQjH15rDMHUFdD4ouqhBNWU1JBCeIwDdmmvw%3Da/cfall/s2001/v3b/oq00ps03nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_606321.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ID3cNX5MkSkdvHoO_Igk1sdSv_g=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/18954/volleyball-nations-league-cover-d06332.jpg" Group-title="VOLLEYBALL NATIONS LEAGUE 2025", SERVER 2
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/18853/file/hls-p/ingest_18853_360p/hdntl=exp=1750254997~acl=%2fstream%2f18853%2ffile%2f*~id=177941483~data=hdntl~hmac=c421a02384def4f8f6aa1a2b57c678929441ca05e425a53b1f6e9f62240604ca/index.m3u8
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/18853/file/hls-p/ingest_18853_360p/hdntl=exp=1750280040~acl=%2fstream%2f18853%2ffile%2f*~id=177941483~data=hdntl~hmac=58b080bc5ec3cd2947ab4a8110b81dccf70b218fd1079b56d70f36f6e0d5110a/index.m3u8
 
 
 
