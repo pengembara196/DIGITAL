@@ -138,7 +138,12 @@ https://fhlsport121.fjs40b8.xyz/token-cUJ7yrmcKaWG7mQhlfY6mG%2FVlJvRjC3jbSCiwKUc
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ID3cNX5MkSkdvHoO_Igk1sdSv_g=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/18954/volleyball-nations-league-cover-d06332.jpg" Group-title="VOLLEYBALL NATIONS LEAGUE 2025", SERVER 2
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/18853/file/hls-p/ingest_18853_360p/hdntl=exp=1750280040~acl=%2fstream%2f18853%2ffile%2f*~id=177941483~data=hdntl~hmac=58b080bc5ec3cd2947ab4a8110b81dccf70b218fd1079b56d70f36f6e0d5110a/index.m3u8
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/18851/file/hls-p/ingest_18851_360p/hdntl=exp=1750349843~acl=%2fstream%2f18851%2ffile%2f*~id=177941483~data=hdntl~hmac=6d9af424c98c3d3b70b89e3f90a5ffb5b67203fddbdd3e7312117f2edebdf851/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ID3cNX5MkSkdvHoO_Igk1sdSv_g=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/18954/volleyball-nations-league-cover-d06332.jpg" Group-title="VOLLEYBALL NATIONS LEAGUE 2025", SERVER 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://wikinew.newkso.ru/wiki/PNpYBn6hAz/mono.m3u8
 
 
 
