@@ -158,14 +158,16 @@ https://v4-15ff02a6a92b215bcd25dc26d4be48bc.livehwc4.com/pullhw.zhaoyangyang.cn/
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ID3cNX5MkSkdvHoO_Igk1sdSv_g=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/18954/volleyball-nations-league-cover-d06332.jpg" Group-title="VOLLEYBALL NATIONS LEAGUE 2025", SERVER 1
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-https://jn228.sportvideodata.com/3161184471_QM6ADMzADOyYTN/p2.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://x4new.newkso.ru/x4/arena1premiumserbia/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ID3cNX5MkSkdvHoO_Igk1sdSv_g=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/18954/volleyball-nations-league-cover-d06332.jpg" Group-title="VOLLEYBALL NATIONS LEAGUE 2025", SERVER 2
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/18851/file/hls-p/ingest_18851_360p/hdntl=exp=1750871114~acl=%2fstream%2f18851%2ffile%2f*~id=177941483~data=hdntl~hmac=e971e18d53c5bf29badf912492483110635217545c42aa41bb15902b68cb3efc/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/720p/file/dash/206_stream.mpd?hdntl=exp=1750877170~acl=%2fstream%2f206%2f720p%2ffile%2f*!%2fstream%2f206%2ffile%2f*~id=177941483~data=hdntl~hmac=707c79573d9b5599a05aa907df0cb993e856a4385fa05362b2bc82a699bda058
 
 
 
@@ -257,19 +259,15 @@ http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://github.com/Qingtvnew/test/raw/main/trans-tv%20(1).png", TRANSTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
-https://cdn13jtedge.indihometv.com/atm/mpd-vo/transtv/manifest.mpd?encp=&uid=&expp=
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://github.com/Qingtvnew/test/raw/main/trans7%20(1).png" group-title="NASIONAL",TRANS7 HD
-https://cdn12jtedge.indihometv.com/atm/mpd-vo/trans7/manifest.mpd?encp=&uid=&expp=
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://github.com/Qingtvnew/test/raw/main/TVRI.png", TVRI 
@@ -299,8 +297,9 @@ https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="MNCNews.id" tvg-logo="https://raw.githubusercontent.com/alexjekrex/TV_Logo/refs/heads/main/Sindonews%20tv.png" group-title="NASIONAL", SINDONEWS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://cdn13jtedge.indihometv.com/atm/mpd-vo/mncnews/manifest.mpd?encp=&uid=&expp=
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdngb196.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 #EXTINF:-1 tvg-name="CNBC INDONESIA" tvg-logo="https://i.imgur.com/kgbMZrT.png" group-title="NASIONAL",CNBC INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
