@@ -2,21 +2,10 @@
 
 
 
-                ==========BYON=======
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSus7-aValAy976z_Fs250rOW4xa1fxSGccsaeFwBfsnQcdN62JYeM9Cd4&s=10" Group-title="BYON COMBAT", LIVE BYON
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f96a8aa9ccb844336e872ad85f3203a:aac93460fdc84b594b6311ac3902d68b
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18833/file/drm/dash/18833_stream.mpd?hdntl=exp=1751117116~acl=%2fstream%2f18833%2ffile%2f*~id=177941483~data=hdntl~hmac=10d068a1044d8046cc8fa27470c96c8b0d5036d05eb23037b6c4c70da945f9d5
 
 
 
-
-
-                ==========FIFA CLUB WORLD CUP 2025=======
+       ==========FIFA CLUB WORLD CUP 2025=======
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6x1WonRpJ3QSezBQeipn--5m-o4-FiimFNyfuXb1RUGeE9w5oBDiVinQC&s=10" Group-title="FIFA CLUB WORLD CUP 2025", SERVER 1
@@ -39,7 +28,7 @@ https://byt1.dbcast.live/s6-xIptXBXQJljYuCWXdZA/1751015941/3138322e332e36392e313
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5H6P78mw39wiYHNv0fY2WQ0JfypUe5ow63FQifQ6bNCkWBq-j7A9ji7g&s=10" Group-title="AFC WOMEN'S ASIAN CUP", SERVER 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://files.catbox.moe/4h8bem.mp4
+https://fhlsport121.fjs40b8.xyz/token-Ik9%2FnOOUeqKGvzB%2Bw%2FY6mG2HlJvQ1yrjaCf7kqBKEDCh47GXHUFdD4stpBNJX0hJBCeIwDdmmvw%3Da/v3/get/s3/aHR0cHM6Ly9wbGF5LnJ3YWJ3by5jb20=/rrty/sd-1-4338304.m3u8?txSecret=2a17db4fd11aac43d24427841ad80382&txTime=6860F74B
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5H6P78mw39wiYHNv0fY2WQ0JfypUe5ow63FQifQ6bNCkWBq-j7A9ji7g&s=10" Group-title="AFC WOMEN'S ASIAN CUP", SERVER 2
@@ -53,28 +42,6 @@ https://files.catbox.moe/4h8bem.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
 https://files.catbox.moe/4h8bem.mp4
 
-
-
-
-                ==========UEFA EUROPEAN U21 CHAMPIONSHIP=======
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeii4JbcIShTVYmTVM2XaUEqJlkA3AvqnXyT_XHh6POMvD50uMmDC0j-YI&s=10" Group-title="UEFA EUROPEAN U21 CHAMPIONSHIP 2025", SERVER 1
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://fhlsport121.fjs40b8.xyz/token-d0RynrmVe%2FeG5GIhlvY6mD%2BKlMOH0Xvjbieuz%2FJPRTL17rWXHUFdD4oqrB1OWUxJBCeIwDdmmvw%3Da/cfall/s2001/v3b/p53n60snnUE0pQbiY2EyYKW4qP4mrUA0oF5iozH%3D/super/3x_606786.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeii4JbcIShTVYmTVM2XaUEqJlkA3AvqnXyT_XHh6POMvD50uMmDC0j-YI&s=10" Group-title="UEFA EUROPEAN U21 CHAMPIONSHIP 2025", SERVER 2
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://fhlsport121.fjs40b8.xyz/token-IRJ8zubBe6SGuDB7lvY6kWjSlMCB03jjbnCvl6BHFGPx57bNHUFdD4oqrB1OWktJBCeIwDdmmvw%3Da/cfall/s6/v3b/ss971n05nUE0pUZ6Yl9mYJVlYzScp3ElMJ0hozI0/plyvivo/3i3i1etarama5ubes02o/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeii4JbcIShTVYmTVM2XaUEqJlkA3AvqnXyT_XHh6POMvD50uMmDC0j-YI&s=10" Group-title="UEFA EUROPEAN U21 CHAMPIONSHIP 2025", SERVER 3
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://fhlsport121.fjs40b8.xyz/token-c0YomuaUIfKG7m0swfY6ym%2BKlMPajH%2FjaSb%2Fz%2FVHRTPx5bKaHUFdD4oqrB1OVEpJBCeIwDdmmvw%3Da/v3/get/s3/aHR0cHM6Ly9wbGF5LnJ3YWJ3by5jb20=/rrty/sd-1-4343531.m3u8?txSecret=71c34fe175cec539f73adcd7391e01c6&txTime=68582645
 
 
 
@@ -104,7 +71,7 @@ https://fhlsport121.fjs40b8.xyz/token-c0Z8n%2BGXLPeGvmR8wfY6nGyElJuBhnjja3eolKMc
 
 
 
-==========CONCACAF GOLD CUP=======
+              =========CONCACAF GOLD CUP=======
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmLE6FG-6I3o8YdefCjzB_ejDwDMSr97BoQf8sVEYr7K68ydRDDrko7iY&s=10" Group-title="CONCACAF GOLD CUP", SERVER 1
@@ -129,45 +96,13 @@ https://wikinew.newkso.ru/wiki/eplayerfs2/mono.m3u8
 
 
 
-
-
-                              ==========BWF US OPEN 2025===========
-                              
-                                                            
-#EXTINF:-1 tvg-logo="https://rackonnect.com/wp-content/uploads/2025/01/BWF-logo.png" Group-title="YONEX US OPEN 2025", COURT 1
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://v4-15ff02a6a92b215bcd25dc26d4be48bc.livehwc4.com/pullhw.zhaoyangyang.cn/live/8804374_lud.m3u8?auth_info=rCRr0iKTGbleRpFl1OVme0kNSbiP8EFdB%2FS29mX%2Fosl4oQnALNHo91ER2wnhFWre.64466538513351497a3076747a466349&edge_slice=true&user_session_id=453948709fe7ebeef59e6abecabed7d7&sub_m3u8=true
-
-
-#EXTINF:-1 tvg-logo="https://rackonnect.com/wp-content/uploads/2025/01/BWF-logo.png" Group-title="YONEX US OPEN 2025", COURT 2
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://v4-15ff02a6a92b215bcd25dc26d4be48bc.livehwc4.com/pullhw.zhaoyangyang.cn/live/8804374_lud.m3u8?user_session_id=f8dbbff0144cb516abe5b5c2bc2f1e03&sub_m3u8=true&auth_info=rCRr0iKTGbleRpFl1OVme0kNSbiP8EFdB%2FS29mX%2Fosl4oQnALNHo91ER2wnhFWre.64466538513351497a3076747a466349&edge_slice=true
-
-
-#EXTINF:-1 tvg-logo="https://rackonnect.com/wp-content/uploads/2025/01/BWF-logo.png" Group-title="YONEX US OPEN 2025", COURT 3
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://v4-15ff02a6a92b215bcd25dc26d4be48bc.livehwc4.com/pullhw.zhaoyangyang.cn/live/8804374_lud.m3u8?user_session_id=f8dbbff0144cb516abe5b5c2bc2f1e03&sub_m3u8=true&auth_info=rCRr0iKTGbleRpFl1OVme0kNSbiP8EFdB%2FS29mX%2Fosl4oQnALNHo91ER2wnhFWre.64466538513351497a3076747a466349&edge_slice=true
-
-
-#EXTINF:-1 tvg-logo="https://rackonnect.com/wp-content/uploads/2025/01/BWF-logo.png" Group-title="YONEX US OPEN 2025", COURT 4
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://v4-15ff02a6a92b215bcd25dc26d4be48bc.livehwc4.com/pullhw.zhaoyangyang.cn/live/8804374_lud.m3u8?sub_m3u8=true&auth_info=rCRr0iKTGbleRpFl1OVme0kNSbiP8EFdB%2FS29mX%2Fosl4oQnALNHo91ER2wnhFWre.64466538513351497a3076747a466349&user_session_id=9ebb52c6f23a6efacf0473bc9c02341f&edge_slice=true
-
-
-
-
-
-          ==========VNL===========
+                    ==========VNL===========
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ID3cNX5MkSkdvHoO_Igk1sdSv_g=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/18954/volleyball-nations-league-cover-d06332.jpg" Group-title="VOLLEYBALL NATIONS LEAGUE 2025", SERVER 1
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://fhlsport121.fjs40b8.xyz/token-cRMoz7WVf6eG7GMvkfY6kWrVlJrSjHrjbCH4w6ZHETnz4eadHUFdD4ssqR1KXUVJBCeIwDdmmvw%3Da/cfall/s6/v3b/n2q5o922nUE0pUZ6Yl9mYJVlYaEiq3Eio21uYz5yqN%3D%3D/plyvivo/f0si9emagote1o2arufe/chunklist.m3u8
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OCRTAd3g/live.isml/.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ID3cNX5MkSkdvHoO_Igk1sdSv_g=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/18954/volleyball-nations-league-cover-d06332.jpg" Group-title="VOLLEYBALL NATIONS LEAGUE 2025", SERVER 2
@@ -175,7 +110,7 @@ https://fhlsport121.fjs40b8.xyz/token-cRMoz7WVf6eG7GMvkfY6kWrVlJrSjHrjbCH4w6ZHET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/720p/file/dash/206_stream.mpd?hdntl=exp=1751072320~acl=%2fstream%2f206%2f720p%2ffile%2f*!%2fstream%2f206%2ffile%2f*~id=177941483~data=hdntl~hmac=5bda4549c66308a27e203dd3962d9a012ec27da6263e91a8043af2e5a3a2dc70
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/720p/file/dash/206_stream.mpd?hdntl=exp=1751171792~acl=%2fstream%2f206%2f720p%2ffile%2f*!%2fstream%2f206%2ffile%2f*~id=177941483~data=hdntl~hmac=4c636a840e243d0c7be0af9d07bbc1feb98707a2898c9352cda7d18e57dbe81e
 
 
 
