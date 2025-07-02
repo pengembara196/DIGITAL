@@ -9,14 +9,27 @@
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6x1WonRpJ3QSezBQeipn--5m-o4-FiimFNyfuXb1RUGeE9w5oBDiVinQC&s=10" Group-title="FIFA CLUB WORLD CUP 2025", SERVER 1
-KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
+https://cr7v.short.gy/Canal1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6x1WonRpJ3QSezBQeipn--5m-o4-FiimFNyfuXb1RUGeE9w5oBDiVinQC&s=10" Group-title="FIFA CLUB WORLD CUP 2025", SERVER 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://cachehsi2b.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6x1WonRpJ3QSezBQeipn--5m-o4-FiimFNyfuXb1RUGeE9w5oBDiVinQC&s=10" Group-title="FIFA CLUB WORLD CUP 2025", SERVER 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://cr7v.short.gy/Canal3/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6x1WonRpJ3QSezBQeipn--5m-o4-FiimFNyfuXb1RUGeE9w5oBDiVinQC&s=10" Group-title="FIFA CLUB WORLD CUP 2025", SERVER 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://cr7v.short.gy/Canal4/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6x1WonRpJ3QSezBQeipn--5m-o4-FiimFNyfuXb1RUGeE9w5oBDiVinQC&s=10" Group-title="FIFA CLUB WORLD CUP 2025", SERVER 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
 
 
 
@@ -27,13 +40,13 @@ https://cachehsi2b.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5H6P78mw39wiYHNv0fY2WQ0JfypUe5ow63FQifQ6bNCkWBq-j7A9ji7g&s=10" Group-title="AFC WOMEN'S ASIAN CUP", SERVER 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://fhlsport121.fjs40b8.xyz/token-cUd9yrfAK6OG7zcrxvY6mGKElMDb1n%2FjOHb7l%2FdIFjfxtLKXHUFdD4soqBJIWEpJBCeIwDdmmvw%3Da/v3/get/s3/aHR0cHM6Ly9wbGF5LnJ3YWJ3by5jb20=/rrty/sd-1-4338283.m3u8?txSecret=8465f387ae59bb60c327e922753335be&txTime=6864F2D1
+https://fhlsport121.fjs40b8.xyz/token-d0Eon7Wcev6G5W15xfY6nGKGlJqB0yrjbCyslPVPQzX37rKZHUFdD4soqB1KX0tJBCeIwDdmmvw%3Da/v3/get/s3/aHR0cHM6Ly9wbGF5LnJ3YWJ3by5jb20=/rrty/sd-1-4338312.m3u8?txSecret=28b82ba4e48b278e0fd6f40cfa8e670b&txTime=6864F2D3
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5H6P78mw39wiYHNv0fY2WQ0JfypUe5ow63FQifQ6bNCkWBq-j7A9ji7g&s=10" Group-title="AFC WOMEN'S ASIAN CUP", SERVER 2
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://fhlsport121.fjs40b8.xyz/token-JkZ6neacIfaG5GAgwPY6mjmAlJrahSjjZSytl%2FIaRTbx4bPIHUFdD4soqBJIVEtJBCeIwDdmmvw%3Da/v3/get/s3/aHR0cHM6Ly9wbGF5LnJ3YWJ3by5jb20=/rrty/sd-1-4338312.m3u8?txSecret=28b82ba4e48b278e0fd6f40cfa8e670b&txTime=6864F2D3
+https://fhlsport121.fjs40b8.xyz/token-cEEvzrLHLqCG7TMpkfY6zz7RlMDX03vjZSP4z%2FRHRjT7tLPIHUFdD4soqB1KW05JBCeIwDdmmvw%3Da/v3/get/s3/aHR0cHM6Ly9wbGF5LnJ3YWJ3by5jb20=/rrty/sd-1-4338283.m3u8?txSecret=8465f387ae59bb60c327e922753335be&txTime=6864F2D1
 
 
 
@@ -1959,6 +1972,41 @@ http://tvking6282.cloud/$k0detv9626/Astro/AstroBadminton2-HD.m3u8
 
 
 
+        =======ARENA SPORT=====
+
+      
+#EXTINF:-1 tvg-id="14724" tvg-name="Arena Sport 1 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo.png" group-title="ARENA SPORT" ,Arena Sport 01 HR
+http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/1520
+
+#EXTINF:-1 tvg-id="14725" tvg-name="Arena Sport 2 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_HR_logo.png" group-title="ARENA SPORT" ,Arena Sport 02 HR
+http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/1519
+
+#EXTINF:-1 tvg-id="14726" tvg-name="Arena Sport 3 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_HR_logo.png" group-title="ARENA SPORT" ,Arena Sport 03 HR
+http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/1518
+
+#EXTINF:-1 tvg-id="14727" tvg-name="Arena Sport 4 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_4_HR_logo.png" group-title="ARENA SPORT" ,Arena Sport 04 HR
+http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/1517
+
+#EXTINF:-1 tvg-id="14728" tvg-name="Arena Sport 5 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_5_HR_logo.png" group-title="ARENA SPORT" ,Arena Sport 05 HR
+http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/1516
+
+#EXTINF:-1 tvg-id="14729" tvg-name="Arena Sport 6 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_6_HR_logo.png" group-title="ARENA SPORT" ,Arena Sport 06 HR
+http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/1510
+
+#EXTINF:-1 tvg-id="26887" tvg-name="Arena Sport 7 HR" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_7_HR_logo.png" group-title="ARENA SPORT" ,Arena Sport 07 HR
+http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/15733
+
+#EXTINF:-1 tvg-id="26888" tvg-name="Arena Sport 8 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_8_HR_logo.png" group-title="ARENA SPORT" ,Arena Sport 08 HR
+http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/15734
+
+#EXTINF:-1 tvg-id="26889" tvg-name="Arena Sport 9 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_9_HR_logo.png" group-title="ARENA SPORT" ,Arena Sport 09 HR
+http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/15735
+
+#EXTINF:-1 tvg-id="26890" tvg-name="Arena Sport 10 HR" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_10_HR_logo.png" group-title="ARENA SPORT" ,Arena Sport 10 HR
+http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/15736
+
+
+
 
             =======CANAL+ SPORT=====
 
@@ -2022,6 +2070,45 @@ http://azers.online/play/live.php?mac=00:1A:79:46:E7:E4&stream=256121&extension=
 #EXTVLCOPT:http-referrer=http://azers.online/
 #EXTVLCOPT:http-user-agent:Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://azers.online/play/live.php?mac=00:1A:79:46:E7:E4&stream=115874&extension=ts&play_token=50Vkn2h0fY
+
+
+
+
+              =======ESPN======
+       
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPN",ESPN SD
+https://metalgear.bemtv.cn/STREAM/8322/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPN",ESPN 2 HD
+https://metalgear.bemtv.cn/STREAM/8324/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="ESPN",ESPN 3 HD
+http://46.151.196.223:14444/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="ESPN",ESPN 4 HD
+https://metalgear.bemtv.cn/STREAM/8328/chunks.m3u8
+       
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="ESPN",ESPN 5 HD
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/197136
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="ESPN",ESPN 6 HD
+https://metalgear.bemtv.cn/STREAM/8320/chunks.m3u8
+
+#EXTINF:-1 group-logo="https://iili.io/2y78c5x.png" tvg-id="" tvg-name="PT: ELEVEN 1 HD" tvg-logo="https://iili.io/3EWn30X.jpg" group-title="ESPN",DAZN 1
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117742
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 2 HD" tvg-logo="https://iili.io/3EWotwv.jpg" group-title="ESPN",DAZN 2
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117745
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 3 HD" tvg-logo="https://iili.io/3EWxciB.jpg" group-title="ESPN",DAZN 3
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117747
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 4 HD" tvg-logo="https://iili.io/3EWxis2.jpg" group-title="ESPN",DAZN 4
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117749
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 5 HD" tvg-logo="https://iili.io/3EWzVr7.jpg" group-title="ESPN",DAZN 5
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117751
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 6 HD" tvg-logo="https://iili.io/3EWIMZv.jpg" group-title="ESPN",DAZN 6
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117753
+
+
 
 
 
