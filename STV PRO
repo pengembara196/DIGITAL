@@ -182,6 +182,27 @@ https://wikinew.newkso.ru/wiki/eplayerfs1/mono.m3u8
 
 
 
+          ==========UEFA WOMENS CHAMPIONSHIP===========
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSps25s5WBe7bwexDxqXNPtkPEfUwGB0n1i6UMu--_qLzR7skBkFY4R9kQ&s=10" Group-title="UEFA WOMENS CHAMPIONSHIP", SERVER 1
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://wikinew.newkso.ru/wiki/eplayerfs1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSps25s5WBe7bwexDxqXNPtkPEfUwGB0n1i6UMu--_qLzR7skBkFY4R9kQ&s=10" Group-title="UEFA WOMENS CHAMPIONSHIP", SERVER 2
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://x4new.newkso.ru/x4/xbbc2/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSps25s5WBe7bwexDxqXNPtkPEfUwGB0n1i6UMu--_qLzR7skBkFY4R9kQ&s=10" Group-title="UEFA WOMENS CHAMPIONSHIP", SERVER 3
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://top2new.newkso.ru/top2/eplayerSPORTTV1/mono.m3u8
+
+
 
 
                       ==========VNL===========
