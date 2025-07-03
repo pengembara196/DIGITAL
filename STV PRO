@@ -2,9 +2,9 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqqKWIhVnnmG-Kr-MVT1PnAsSTXgvQQ4_HbSdpgQsz--3Fol3OeK_ShW4W&s=10" Group-title="GREBEG SURO 2025", LOMBA LAGU JAWA Kel. Sridadi
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqqKWIhVnnmG-Kr-MVT1PnAsSTXgvQQ4_HbSdpgQsz--3Fol3OeK_ShW4W&s=10" Group-title="GREBEG SURO 2025", Kelurahan Sridadi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751493694/ei/3ldlaL3qCdSW1d8Puo2J-QI/ip/182.3.71.181/id/D476g5VBypA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLNV8UVBRpX2iugYC7d3RVbv-PcpHDqCbD0e9Tb5xTCiRfi0-lDokq8vZ-W5zi_1PPxNqP6n1OuM/spc/l3OVKVjDULiMwNHv6nQ6Z6j-Ze7rEE8ZAUea5shSEBeskJ1McM-fPT79b5w3YRaFuxnh2gwbQ5Y/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgWqvzyI4ksDvtL9SS_DxC0mYFr-joL7DVq6x1xrWIUWsCICk9Hx9GhiWiLjvYlN1TJPqFu3KvRM5RJ515cyLOWp3H/file/index.m3u8
+
 
 
 
@@ -93,28 +93,30 @@ https://fhlsport121.fjs40b8.xyz/token-JER8z%2BKSK%2FOG6TAsxvY6mWKHlMCD0HvjaSeixP
 https://fhlsport121.fjs40b8.xyz/token-c0Z8n%2BGXLPeGvmR8wfY6nGyElJuBhnjja3eolKMcQjjwsrWWHUFdDoMrqxFJWU9JBCeIwDdmmvw%3Da/cfall/s6/v3b/ns2n8oqsnUE0pUZ6Yl9mYJVlYzScp3ElMJ0hozI0/plyvivo/20j07azic0ko3arojovo/chunklist.m3u8
 
 
+
+
               ==========CANADA OPEN=======
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfZWmft1zKnAoAN-s260Y16ca_9vbkeqCvkOFJh--BxqBaobDQmVKA-LY&s=10" Group-title="CANADA OPEN", COURT 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfZWmft1zKnAoAN-s260Y16ca_9vbkeqCvkOFJh--BxqBaobDQmVKA-LY&s=10" Group-title="BWF CANADA OPEN", COURT 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://top2new.newkso.ru/top2/bet8204762/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfZWmft1zKnAoAN-s260Y16ca_9vbkeqCvkOFJh--BxqBaobDQmVKA-LY&s=10" Group-title="CANADA OPEN", COURT 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfZWmft1zKnAoAN-s260Y16ca_9vbkeqCvkOFJh--BxqBaobDQmVKA-LY&s=10" Group-title="BWF CANADA OPEN", COURT 2
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://top2new.newkso.ru/top2/bet8204765/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfZWmft1zKnAoAN-s260Y16ca_9vbkeqCvkOFJh--BxqBaobDQmVKA-LY&s=10" Group-title="CANADA OPEN", COURT 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfZWmft1zKnAoAN-s260Y16ca_9vbkeqCvkOFJh--BxqBaobDQmVKA-LY&s=10" Group-title="BWF CANADA OPEN", COURT 3
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://top2new.newkso.ru/top2/bet8204758/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfZWmft1zKnAoAN-s260Y16ca_9vbkeqCvkOFJh--BxqBaobDQmVKA-LY&s=10" Group-title="CANADA OPEN", COURT 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfZWmft1zKnAoAN-s260Y16ca_9vbkeqCvkOFJh--BxqBaobDQmVKA-LY&s=10" Group-title="BWF CANADA OPEN", COURT 4
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://top2new.newkso.ru/top2/bet8204756/mono.m3u8
@@ -128,13 +130,13 @@ https://top2new.newkso.ru/top2/bet8204756/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmLE6FG-6I3o8YdefCjzB_ejDwDMSr97BoQf8sVEYr7K68ydRDDrko7iY&s=10" Group-title="CONCACAF GOLD CUP", SERVER 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://wikinew.newkso.ru/wiki/eplayerfs1/mono.m3u8
+https://top2new.newkso.ru/top2/eplayerSPORTTV1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmLE6FG-6I3o8YdefCjzB_ejDwDMSr97BoQf8sVEYr7K68ydRDDrko7iY&s=10" Group-title="CONCACAF GOLD CUP", SERVER 2
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://wikinew.newkso.ru/wiki/eplayerfs2/mono.m3u8
+https://top2new.newkso.ru/top2/bet8200852/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmLE6FG-6I3o8YdefCjzB_ejDwDMSr97BoQf8sVEYr7K68ydRDDrko7iY&s=10" Group-title="CONCACAF GOLD CUP", SERVER 3
