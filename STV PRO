@@ -238,6 +238,28 @@ https://wikinew.newkso.ru/wiki/eplayerfs1/mono.m3u8
 
 
 
+       ==========SEA V-LEAGUE 2025=======
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_zMvMH2IUoOPVqNMHS9Ju0D1JnZ0YjT54X4swvP_VWL-LEqC1M7qQl40T&s=10", SERVER 1
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
+https://files.catbox.moe/4h8bem.mp4
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_zMvMH2IUoOPVqNMHS9Ju0D1JnZ0YjT54X4swvP_VWL-LEqC1M7qQl40T&s=10", SERVER 2
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
+https://files.catbox.moe/4h8bem.mp4
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_zMvMH2IUoOPVqNMHS9Ju0D1JnZ0YjT54X4swvP_VWL-LEqC1M7qQl40T&s=10", SERVER 3
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
+https://files.catbox.moe/4h8bem.mp4
+
+
+
 
           ==========UEFA WOMENS CHAMPIONSHIP===========
 
