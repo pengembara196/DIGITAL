@@ -1,39 +1,6 @@
 #EXTM3U
 
 
-
-         ===== LIVE MSC======
-                 
-         
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeJgW4ezad9jymz4eJSAGjYRT0ih6HOF0FkAqiGSmIpIaerIdQlIq37v4&s=10" Group-title="LIVE MUSIC", LIVE 1
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751793958/ei/xuxpaNPDLNKj9fwPvqSX-As/ip/182.3.68.41/id/qexMoDejMCA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLP74rTXIJviMt0u13dnzK4X8fjgMMpB9a9mnQ8-HGl6gvDIXRXoj1vu3H35PqWAd-CQeyP2j51J/spc/l3OVKZ9W7nt5rhw5yYV8SUuIqJhzuEveI1fXVcgQZrJ5uWfET6ecghQY6y6bUW-z1-eQpk2NvKo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPWxIi6cgavXUpe9xqJJYGASbFrByq8tYK-bpMFPlW2GAiEAu5SZp6Z_GGxyp36YI1QOxcih__FSJgVFnxElChf_iSQ%3D/file/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeJgW4ezad9jymz4eJSAGjYRT0ih6HOF0FkAqiGSmIpIaerIdQlIq37v4&s=10" Group-title="LIVE MUSIC", LIVE 2
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751793661/ei/netpaKHSKJuOz7sPi9a8wQ4/ip/182.3.68.41/id/qj5hBrLtGWQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLPj2RO18yfzpGF2ESszUlxVXu_0Tmlq-1dUTfB-59JG436VOMvToTivrDcT7Tdn6ke9p3CTolRv/spc/l3OVKWOwndu0grmRKr17SG-mwXUzCEuhxZzIec4BuYlHrEKYhxS0jSeXeA9HFdIc1PJ2WLPDi4o/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgSKHRGT87Kthl2L0r7T9ybt7TuxNTmWuTmsVd3QhR8SkCIQDv9JowD3wTvG4nlW5R-7B1LfBFOuwnhOiCWjPC7P_row%3D%3D/file/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeJgW4ezad9jymz4eJSAGjYRT0ih6HOF0FkAqiGSmIpIaerIdQlIq37v4&s=10" Group-title="LIVE MUSIC", LIVE 3
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751794116/ei/ZO1paJVdvoGDxQ_G8dGoCQ/ip/182.3.68.41/id/duM_WFK4_DM.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51526547/txs/51526545%2C51526546%2C51526547%2C51526548/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLOYp-M2WdOjMyDD_6HwOsN_oNT8uGlTtH2H_ngE0A2e7zpGNsDchIau-8V16Ux7gV5fFjiB3hEu/spc/l3OVKTKoUPrDs7yskOFjYYOpkfecbjD1vpJ7AimHY6bH1wbWDtyA2sUOPJgl7Iw6S1MfjxQomAQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAInkMHK5T8qhIk6rXaKjisRur12xyC0e-06jgbp3YINkAiEA-uuc4YdCXsarSI0sre4q2Z6zs0Nmi19OgFmVEgCQg64%3D/file/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeJgW4ezad9jymz4eJSAGjYRT0ih6HOF0FkAqiGSmIpIaerIdQlIq37v4&s=10" Group-title="LIVE MUSIC", LIVE 4
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751794610/ei/Uu9paPO1Ic_7juMP0pPt-AM/ip/182.3.68.41/id/ttFfJdqGkWk.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLPcwSV53jprIBg4J1TVHfK2LIJzkaP7hfSz6Um-u-ny9ID88xORrHfgyUemJ8t5XdLUor7iZyDS/spc/l3OVKa2LTZ8rmmsXtHYhgeU_igUbXeiC_YQHPIkUeCWW1MnMgNnx0ajXbvTXZHb9Au6exPMuzR8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51469039%2C51514994/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgPlaENV3j9K73bFbS5vidq0XQHQKlRHRJpiXy_l98azsCIQCxZnk7gAp2Q8hA-M3M2Om-Elw_l1wiHzzfo3OVpRMwgw%3D%3D/file/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeJgW4ezad9jymz4eJSAGjYRT0ih6HOF0FkAqiGSmIpIaerIdQlIq37v4&s=10" Group-title="LIVE MUSIC", LIVE 5
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751808946/ei/UidqaM-2Dtbq29gP3_eluAY/ip/182.3.68.41/id/Ga1Qnrn6tIs.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51478321/txs/51478320%2C51478321%2C51478322/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLOmhYZmLKTCTqe7RU8Cg3I2v90JLw4tEYhmAJDHnOmpRgBes1YZ-o80eaa9XhLqJ-z0JqN6ZqNn/spc/l3OVKTOmlDT_P40gxilsuj99ZocxHZLInV2Z2qlQuw1VkuedzsYII4MUC9Ara-AEs2ATUBSBOIQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgR-Ta9EvCmRLxIIBJUQC7JPVUtS8X8nOi_iW3DgG5dxkCIQD18mg8xDiuIzTgj_2WzEQ4W3WcLsfWSI-2eDGVo6VEFA%3D%3D/file/index.m3u8
-
-
-
-
-
-
-
          ===== ASEAN U23 ======
                  
          
@@ -134,13 +101,13 @@ https://fhlsport121.fjs40b8.xyz/token-IU4pnbLHLfKGuDEtkvY6mznQlMDV0y%2FjP3b5xPVL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgoXJdH1hrjXt2QkjSiihbczzDMrU_K9qHbVGljzUXsOj16TgNS3ginYCG&s=10" Group-title="PIALA PRESIDEN 2025", SERVER 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://fhlsport121.fjs40b8.xyz/token-cUcqkrCXL6eGvGMhwPY6ymPWlMCEhynjZXavwKBIRTSgsradHUFdD4srpRVMWUhJBCeIwDdmmvw%3Da/v3/get/s3/aHR0cHM6Ly9wbGF5LnJ3YWJ3by5jb20=/rrty/sd-1-4358533.m3u8?txSecret=79e8395edeb79f635a892a535d1d7781&txTime=686A31CC
+https://ff.1x1.su/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgoXJdH1hrjXt2QkjSiihbczzDMrU_K9qHbVGljzUXsOj16TgNS3ginYCG&s=10" Group-title="PIALA PRESIDEN 2025", SERVER 2
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://fhlsport121.fjs40b8.xyz/token-IkcqzbGSLqWG72EswPY6y2jVlJqB1y7jb3aiwaIfGWH34riWHUFdD4srpRVMVERJBCeIwDdmmvw%3Da/v3/get/s3/aHR0cHM6Ly9wbGF5LnJ3YWJ3by5jb20=/rrty/sd-1-4358533.m3u8?txSecret=79e8395edeb79f635a892a535d1d7781&txTime=686A31CC
+https://ff.1x1.su/live.m3u8?rand=0.06358013539721785
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgoXJdH1hrjXt2QkjSiihbczzDMrU_K9qHbVGljzUXsOj16TgNS3ginYCG&s=10" Group-title="PIALA PRESIDEN 2025", SERVER 3
