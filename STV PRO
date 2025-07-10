@@ -30,20 +30,10 @@ https://cr7v.short.gy/Canal1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6x1WonRpJ3QSezBQeipn--5m-o4-FiimFNyfuXb1RUGeE9w5oBDiVinQC&s=10" Group-title="FIFA CLUB WORLD CUP", SERVER 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://cachehsi2b.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6x1WonRpJ3QSezBQeipn--5m-o4-FiimFNyfuXb1RUGeE9w5oBDiVinQC&s=10" Group-title="FIFA CLUB WORLD CUP", SERVER 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://cr7v.short.gy/Canal3/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6x1WonRpJ3QSezBQeipn--5m-o4-FiimFNyfuXb1RUGeE9w5oBDiVinQC&s=10" Group-title="FIFA CLUB WORLD CUP", SERVER 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://cr7v.short.gy/Canal4/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6x1WonRpJ3QSezBQeipn--5m-o4-FiimFNyfuXb1RUGeE9w5oBDiVinQC&s=10" Group-title="FIFA CLUB WORLD CUP", SERVER 5
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6x1WonRpJ3QSezBQeipn--5m-o4-FiimFNyfuXb1RUGeE9w5oBDiVinQC&s=10" Group-title="FIFA CLUB WORLD CUP", SERVER 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
 
@@ -76,19 +66,19 @@ https://fhlsport121.fjs40b8.xyz/token-IU4pnbLHLfKGuDEtkvY6mznQlMDV0y%2FjP3b5xPVL
        ==========PIALA PRESIDEN 2025=======
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgoXJdH1hrjXt2QkjSiihbczzDMrU_K9qHbVGljzUXsOj16TgNS3ginYCG&s=10" Group-title="PIALA PRESIDEN 2025", SERVER 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgoXJdH1hrjXt2QkjSiihbczzDMrU_K9qHbVGljzUXsOj16TgNS3ginYCG&s=10" Group-title="PIALA PRESIDEN", SERVER 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
 https://fhlsport121.fjs40b8.xyz/token-LRB9zbaVLPKG5DAvlfY6yj3SlJrW1i7jbyGpwqQdETP37rXIHUFdD4slqx1BWUhJBCeIwDdmmvw%3Da/cfall/s2001/v3b/s11r33pqnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_608430.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgoXJdH1hrjXt2QkjSiihbczzDMrU_K9qHbVGljzUXsOj16TgNS3ginYCG&s=10" Group-title="PIALA PRESIDEN 2025", SERVER 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgoXJdH1hrjXt2QkjSiihbczzDMrU_K9qHbVGljzUXsOj16TgNS3ginYCG&s=10" Group-title="PIALA PRESIDEN", SERVER 2
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
 https://fhlsport121.fjs40b8.xyz/token-J058meOSeKKG7zZ7xvY6nW3VlJvS1iHjZSWqkKUcEjj24rGWHUFdD4slqx1BWkVJBCeIwDdmmvw%3Da/v3/get/s3/aHR0cHM6Ly9wbGF5LnJ3YWJ3by5jb20=/rrty/sd-1-4369265.m3u8?txSecret=e40c2606bcaa7910cf42bdae40e7991c&txTime=686D0D0A
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgoXJdH1hrjXt2QkjSiihbczzDMrU_K9qHbVGljzUXsOj16TgNS3ginYCG&s=10" Group-title="PIALA PRESIDEN 2025", SERVER 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgoXJdH1hrjXt2QkjSiihbczzDMrU_K9qHbVGljzUXsOj16TgNS3ginYCG&s=10" Group-title="PIALA PRESIDEN", SERVER 3
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
 https://fhlsport121.fjs40b8.xyz/token-c0UtyuWTKfaGvzF%2BxPY6y2qLlJuBgCDjPyCskPNGF2H157KXHUFdD4slqx1BVElJBCeIwDdmmvw%3Da/cfall/s2001/v3b/s11r33pqnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_608430.m3u8
@@ -174,28 +164,27 @@ https://files.catbox.moe/4h8bem.mp4
        ==========SEA V-LEAGUE 2025=======
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_zMvMH2IUoOPVqNMHS9Ju0D1JnZ0YjT54X4swvP_VWL-LEqC1M7qQl40T&s=10" Group-title="SEA V-LEAGUE 2025", SERVER 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_zMvMH2IUoOPVqNMHS9Ju0D1JnZ0YjT54X4swvP_VWL-LEqC1M7qQl40T&s=10" Group-title="SEA V-LEAGUE", SERVER 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
 https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_zMvMH2IUoOPVqNMHS9Ju0D1JnZ0YjT54X4swvP_VWL-LEqC1M7qQl40T&s=10" Group-title="SEA V-LEAGUE 2025", SERVER 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_zMvMH2IUoOPVqNMHS9Ju0D1JnZ0YjT54X4swvP_VWL-LEqC1M7qQl40T&s=10" Group-title="SEA V-LEAGUE", SERVER 2
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
 https://lb1-live-mv.v2h-cdn.com/hls/ffba/one/one.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_zMvMH2IUoOPVqNMHS9Ju0D1JnZ0YjT54X4swvP_VWL-LEqC1M7qQl40T&s=10" Group-title="SEA V-LEAGUE 2025", SERVER 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_zMvMH2IUoOPVqNMHS9Ju0D1JnZ0YjT54X4swvP_VWL-LEqC1M7qQl40T&s=10" Group-title="SEA V-LEAGUE", SERVER 3
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://fhlsport121.fjs40b8.xyz/token-JkdynOHGIPOG72wgxfY6kW7XlMOGjHjjaieswvcYGWH07rmZHUFdD4gsqBFAX0xJBCeIwDdmmvw%3Da/cfall/s2001/v3b/o9r2s33qnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_608574.m3u8
 
 
 
 
 
-          ==========UEFA WOMENS CHAMPIONSHIP===========
+          ==========UEFA WOMENS===========
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSps25s5WBe7bwexDxqXNPtkPEfUwGB0n1i6UMu--_qLzR7skBkFY4R9kQ&s=10" Group-title="UEFA WOMENS CHAMPIONSHIP", SERVER 1
@@ -1446,10 +1435,10 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:-1 tvg-id="ASTRO ARENA.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="PREMIUM SPORT", Astro Arena
-http://zkbvzkj.megahdtv.xyz:900/1103581436/4099381829/29658
+https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
 
 #EXTINF:-1 tvg-id="ASTRO ARENA.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="PREMIUM SPORT",Astro Arena 2
-http://zkbvzkj.megahdtv.xyz:900/1103581436/4099381829/13111
+https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Astro_Arena_Bola.png" group-title="PREMIUM SPORT",Astro Arena Bola
 https://qtvku.my.id/play/admin/stream/32be3b3e09e6fa40
@@ -1464,10 +1453,10 @@ https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
 https://smart.pendy.dpdns.org/Smart.php?id=go_assp2
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroGrandstand.png" group-title="PREMIUM SPORT", Astro Grandstand
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
+https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="PREMIUM SPORT", Astro Football
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20football.m3u8
+https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://qanawat.taghtia.com/assets/channels/bahrain-sport-2.png" tvg-name="Bahrain Sports 1" group-title="PREMIUM SPORT",Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
@@ -1815,9 +1804,6 @@ http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Sportsman.Channel.us" tvg-name="Sportsman Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sportsman-channel-us.png?raw=true" group-title="PREMIUM SPORT",Sportsman Channel
 http://fl2.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="plex.tv.Stadium.plex" tvg-name="Stadium" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" group-title="PREMIUM SPORT",Stadium
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1466
-
 #EXTINF:-1 tvg-id="Lokal" group-title="PREMIUM SPORT" tvg-logo="https://i.imgur.com/0sNWg54.png" ch-number="92" group-logo="", Sports Connect
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
@@ -1841,8 +1827,8 @@ https://moblive.yuppcdn.net/drm1/smil:starsportsselect1drm.smil/manifest.mpd
 #EXTINF:-1 tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/180/content/common/channel/logos/star-sports-select-2.png" group-title="PREMIUM SPORT",Star Sports Select 2
 http://watchindia.net:8880/live/32612/55103/1071.ts
 
-#EXTINF:-1 channel-id="65ea8b928145cb0008509426" tvg-id="65ea8b928145cb0008509426" tvg-chno="2831" tvg-name="UEFA Champions League" tvg-logo="https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png" group-title="PREMIUM SPORT", UEFA Champions League
-https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCrPRl8wWcYz3YkpE3A5-a4yFVwjfsc3YQXKVoPSG7wRl8LHZ4NuIHIl8&s=10" group-title="PREMIUM SPORT", TRT SPOR VILDIZ
+https://test.dreamboxserver.net/trtsporyildiz/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=xraq62d8vawl19o8abgigmjib_image-header_pRow_1730196750000&quality=70" group-title="PREMIUM SPORT" , DAZN 1 ES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
@@ -1910,10 +1896,16 @@ https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
 https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
 
-#EXTINF:-1 group-title="PREMIUM SPORT" tvg-name="LIVE 3" tvg-logo="https://cdn.presskite.com/media/image/a992f3e7037843aea24c1481196b4664/logo-fsn-dark.png", FUBO SPORT
+#EXTINF:-1 group-title="PREMIUM SPORT" tvg-name="LIVE 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-NPvRZWjrWtrF5lK6SUHHBbeZBs7h9vbPv8c3FoBsitZnZRbsEFXc6ZoK&s=10", FUBO SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://bintangstreaming.my.id/admin2/index.mpd?channel=haisksbshsiishsjsh&type=mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-NPvRZWjrWtrF5lK6SUHHBbeZBs7h9vbPv8c3FoBsitZnZRbsEFXc6ZoK&s=10" group-title="PREMIUM SPORT", FUBO SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/zrWFKuzRqWDPECGX4hX5J14tytyQ6r3i-v6PkIs_sawO2o3UC-MhAiRwMG7yJqbkOJw2", group-title="PREMIUM SPORT",TRUE4U 24 HD
@@ -1968,9 +1960,8 @@ https://9e2ee5d5.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFr
 https://streams2.sofast.tv/ptnr-yupptv/title-ACE_TV_YUPPTV/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/8f7ca5bc-6bd2-4dc4-98d0-9ff71eedf477/41989432-22c1-443f-be7d-775b473dcd7a/1.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rrkxqp.png", group-title="PREMIUM SPORT", THE CHUKKER CHANNEL
-##EXTVLCOPT:http-referrer=https://www.yupptv.com/fast-tv/the-chukker-channel/live
-https://streams2.sofast.tv/ptnr-YuppTV/title-THE-CHUKKER-CHANNEL-INT_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3bd726a3-0d30-491d-b5e7-e1afb6e02112/95490082-bec7-409b-ad3a-ed2dfed1ca0f/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTekLE94-vp9uJJrNEyoAYrWQ5hvvq49C1eRJwmGu0V_wn-cwT9-st6VX51&s=10", group-title="PREMIUM SPORT", TRT SPOR
+https://test.dreamboxserver.net/trtspor/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" group-title="PREMIUM SPORT", TEN SPORTS HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
