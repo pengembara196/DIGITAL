@@ -5,40 +5,25 @@
                  
          
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0cLnDzJZ3PN3-nQ5Uyn2Ee1z9vRhUd0d7MnP_pswLeMqGlleDS-gH497&s=10" Group-title="ASEAN U23 CHAMPIONSHIP", SERVER 1
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://fhlsport121.fjs40b8.xyz/token-JUd9yOWSeqeGvjchlfY6z22KlJvT1CrjOHCqx6BNEDGm7uTIHUFdD4gpqxFBWkpJBCeIwDdmmvw%3Da/cfall/s2001/v3b/ono61psonUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_609262.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0cLnDzJZ3PN3-nQ5Uyn2Ee1z9vRhUd0d7MnP_pswLeMqGlleDS-gH497&s=10" Group-title="ASEAN U23 CHAMPIONSHIP", SERVER 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
 https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0cLnDzJZ3PN3-nQ5Uyn2Ee1z9vRhUd0d7MnP_pswLeMqGlleDS-gH497&s=10" Group-title="ASEAN U23 CHAMPIONSHIP", SERVER 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0cLnDzJZ3PN3-nQ5Uyn2Ee1z9vRhUd0d7MnP_pswLeMqGlleDS-gH497&s=10" Group-title="ASEAN U23 CHAMPIONSHIP", SERVER 2
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
 https://fhlsport121.fjs40b8.xyz/token-cE59yLLFIfSG62IvkPY6nmyDlMDQ0XrjPyD8waAdFzmj47OfHUFdD4gpqxBJWkRJBCeIwDdmmvw%3Da/cfall/s2001/v3b/ono61psonUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_609262.m3u8
 
 
 
-
-
-         =====FIFA CLUB WORLD CUP======
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6x1WonRpJ3QSezBQeipn--5m-o4-FiimFNyfuXb1RUGeE9w5oBDiVinQC&s=10" Group-title="FIFA CLUB WORLD CUP", SERVER 1
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6x1WonRpJ3QSezBQeipn--5m-o4-FiimFNyfuXb1RUGeE9w5oBDiVinQC&s=10" Group-title="FIFA CLUB WORLD CUP", SERVER 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0cLnDzJZ3PN3-nQ5Uyn2Ee1z9vRhUd0d7MnP_pswLeMqGlleDS-gH497&s=10" Group-title="ASEAN U23 CHAMPIONSHIP", SERVER 3
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
+https://hls.uouetrq19.com/live/sd-6MuSNPUZhrda9HeUG7.m3u8?txSecret=293ab4807912a6393743dcb20b379fa0&txTime=687778E5
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6x1WonRpJ3QSezBQeipn--5m-o4-FiimFNyfuXb1RUGeE9w5oBDiVinQC&s=10" Group-title="FIFA CLUB WORLD CUP", SERVER 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 
 
 
@@ -82,6 +67,31 @@ https://top2new.newkso.ru/top2/betportlion/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
 https://top2new.newkso.ru/top2/betportlion/mono.m3u8
 
+
+
+
+         =====EAFF East Asian Cup======
+
+
+#EXTINF:-1 tvg-logo="https://eaff.com/assets/img/competition/2025final/logo.jpg" Group-title="EAFF EAST ASIAN CUP", SERVER 1
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
+https://hls.uouetrq19.com/live/hd-en-6MuSNZCbqKRAhPeAes.m3u8?txSecret=f314916dddf872553376d20aefa704ba&txTime=68777D94
+
+
+
+
+#EXTINF:-1 tvg-logo="https://eaff.com/assets/img/competition/2025final/logo.jpg" Group-title="EAFF EAST ASIAN CUP", SERVER 2
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
+https://tfng0gradnmt1gw41hcjafa3dgmmoqisga75ufiuzga3qpbhg15t38rzgg55p.100ycdn.com/pullws-gsc.hxin99.com/live/dps-59248487-saturn-wsu/playlist.m3u8?wsSecret=531dfb08be87ccb4c3762aa26b561725&wsABSTime=687672cc&wsSession=19607199e4bcb22cc30a3fd7-175257816616220&wsIPSercert=fff77796ff5a94dbc796192acf5d4e68&wsiphost=local&wsBindIP=1
+
+
+
+#EXTINF:-1 tvg-logo="https://eaff.com/assets/img/competition/2025final/logo.jpg" Group-title="EAFF EAST ASIAN CUP", SERVER 3
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
+https://mje1.dbcast.live/XDZl_iehOc8ZInxwIRbHPQ/1752607006/3138322e332e37312e313935/ff803/playlist.m3u8
 
 
 
