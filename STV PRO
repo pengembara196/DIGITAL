@@ -11,20 +11,15 @@ https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.m
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0cLnDzJZ3PN3-nQ5Uyn2Ee1z9vRhUd0d7MnP_pswLeMqGlleDS-gH497&s=10" Group-title="ASEAN U23 CHAMPIONSHIP", SERVER 2
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://fhlsport121.fjs40b8.xyz/token-cE59yLLFIfSG62IvkPY6nmyDlMDQ0XrjPyD8waAdFzmj47OfHUFdD4gpqxBJWkRJBCeIwDdmmvw%3Da/cfall/s2001/v3b/ono61psonUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_609262.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/chunklist_w321706025.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0cLnDzJZ3PN3-nQ5Uyn2Ee1z9vRhUd0d7MnP_pswLeMqGlleDS-gH497&s=10" Group-title="ASEAN U23 CHAMPIONSHIP", SERVER 3
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://hls.uouetrq19.com/live/sd-6MuSNPUZhrda9HeUG7.m3u8?txSecret=293ab4807912a6393743dcb20b379fa0&txTime=687778E5
-
-
-
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
 
 
@@ -35,16 +30,10 @@ https://hls.uouetrq19.com/live/sd-6MuSNPUZhrda9HeUG7.m3u8?txSecret=293ab4807912a
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5H6P78mw39wiYHNv0fY2WQ0JfypUe5ow63FQifQ6bNCkWBq-j7A9ji7g&s=10" Group-title="AFC WOMEN'S ASIAN CUP", SERVER 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://fhlsport121.fjs40b8.xyz/token-IkN9kuGRePeG6WR7kvY6kD7VlJvUjCzjOnSvw6ZNQmXw5rmYHUFdD4srrhVPXE1JBCeIwDdmmvw%3Da/cfall/s2001/v3b/182796onnUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_608075.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5H6P78mw39wiYHNv0fY2WQ0JfypUe5ow63FQifQ6bNCkWBq-j7A9ji7g&s=10" Group-title="AFC WOMEN'S ASIAN CUP", SERVER 2
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://fhlsport121.fjs40b8.xyz/token-IU4pnbLHLfKGuDEtkvY6mznQlMDV0y%2FjP3b5xPVLGDf75rabHUFdD4srrhVPWUVJBCeIwDdmmvw%3Da/v3/get/s3/aHR0cHM6Ly9wbGF5LnJ3YWJ3by5jb20=/rrty/sd-1-4338309.m3u8?txSecret=a5838d8a5d9b214c90c4fd02531b58a1&txTime=68691F97
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5H6P78mw39wiYHNv0fY2WQ0JfypUe5ow63FQifQ6bNCkWBq-j7A9ji7g&s=10" Group-title="AFC WOMEN'S ASIAN CUP", SERVER 3
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
 
@@ -144,25 +133,6 @@ https://4c9acbfc5736afa854fa764f3bafa98e.v.smtcdns.net/play.cbalive.weibisai.com
 
 
 
-            =========FIBA WOMEN=======
-
-
-#EXTINF:-1 tvg-logo="https://resources.prod.fiba.pulselive.com/photo-resources/2025/05/21/a0f58373-8c00-40dc-82c6-eaabfa1b3cd8/On-Site-Tournament-Heroes_Womens-Asia-Cup.png?width=1920&height=1080" Group-title="FIBA WOMEN'S ASIA CUP", SERVER 1
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://fhlsport121.fjs40b8.xyz/token-J0MtmLbHIaeG6TN%2Bl%2FY6zGqGlMDXgizjbXT7w6IdE2b1teTKHUFdD4gppBRIWEhJBCeIwDdmmvw%3Da/cfall/s6/v3b/8s830044nUE0pUZ6Yl9mYJVlYaEiq3Eio21uYz5yqN%3D%3D/plyvivo/gufe8o6o8e1i5ohibed0/chunklist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://resources.prod.fiba.pulselive.com/photo-resources/2025/05/21/a0f58373-8c00-40dc-82c6-eaabfa1b3cd8/On-Site-Tournament-Heroes_Womens-Asia-Cup.png?width=1920&height=1080" Group-title="FIBA WOMEN'S ASIA CUP", SERVER 1
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3 
-https://fhlsport121.fjs40b8.xyz/token-JkIpkrDHePCGuGYtyvY6zD7RlJvbgi%2FjbS2px%2FNJGTWn4bSZHUFdD4gppBRJX0xJBCeIwDdmmvw%3Da/v3/get/s3/aHR0cHM6Ly9wbGF5LnJ3YWJ3by5jb20=/rrty/hd-zh-2-3833685.m3u8?txSecret=ad47c23dc716a68b654aeddb8866795a&txTime=6876398F
-
-
-
-
-
 
 
        ==========SEA V-LEAGUE 2025=======
@@ -185,27 +155,6 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffba/one/one.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
 https://fhlsport121.fjs40b8.xyz/token-IkR8yOKcIaeG7GIuwPY6y2yDlJrRhCjjZSavlfdIFjfw5bSdHUFdD4gorBZIWkxJBCeIwDdmmvw%3Da/cfall/s2001/v3b/o13990qonUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_609099.m3u8
 
-
-
-          ==========UEFA WOMENS===========
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSps25s5WBe7bwexDxqXNPtkPEfUwGB0n1i6UMu--_qLzR7skBkFY4R9kQ&s=10" Group-title="UEFA WOMENS CHAMPIONSHIP", SERVER 1
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://x4new.newkso.ru/x4/dazn1de/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSps25s5WBe7bwexDxqXNPtkPEfUwGB0n1i6UMu--_qLzR7skBkFY4R9kQ&s=10" Group-title="UEFA WOMENS CHAMPIONSHIP", SERVER 2
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://x4new.newkso.ru/x4/eplayerTSN_4_HD/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSps25s5WBe7bwexDxqXNPtkPEfUwGB0n1i6UMu--_qLzR7skBkFY4R9kQ&s=10" Group-title="UEFA WOMENS CHAMPIONSHIP", SERVER 3
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://top2new.newkso.ru/top2/eplayerSPORTTV1/mono.m3u8
 
 
 
