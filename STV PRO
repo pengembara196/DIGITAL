@@ -1458,10 +1458,6 @@ http://opplex.tv:8080/mohsin655/4969292/348358
 http://opplex.tv:8080/mohsin655/4969292/348359
 
 
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/01/18114704/scooore_Ghana_RGB.png",Scooore Sport Digital
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://d17c7mhdsdu50m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bwpxsoc1pdhwy/index.m3u8
-
 
 #EXTINF:-1 group-title="SPORT" tvg-id="sportv.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",Sportv 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21002.ts
@@ -1810,10 +1806,6 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 ##EXTVLCOPT:http-referrer=https://www.yupptv.com/fast-tv/fight-tv/live
 https://streams2.sofast.tv/ptnr-yupptv/title-FIGHT-TV-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/d0eee15b-8240-4768-9aeb-d5c417eb6206/0.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sport-fishing-tv.png", group-title="SPORT",SPORT FISHING TV
-##EXTVLCOPT:http-referrer=https://www.yupptv.com/fast-tv/sport-fishing-tv/live
-https://streams2.sofast.tv/ptnr-yupptv/title-SPORT-FISHING-TV-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/a2a79930-ba6e-40d9-87e5-c189ff8e02ab/0.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sqjspw.png", group-title="SPORT",KOZOOM
