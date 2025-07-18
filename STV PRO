@@ -5,22 +5,22 @@
                  
          
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0cLnDzJZ3PN3-nQ5Uyn2Ee1z9vRhUd0d7MnP_pswLeMqGlleDS-gH497&s=10" Group-title="ASEAN U23 CHAMPIONSHIP", SERVER 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
-https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
+https://fhlsport121.fjs40b8.xyz/token-JhB7nbOUeqCG6TF7kPY6z2uKlJuDhnrjP3P5xPUdFWXx4OKeHUFdD4gkqBZNW0xJBCeIwDdmmvw%3Da/cfall/s2001/v3b/04s00151nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_609550.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0cLnDzJZ3PN3-nQ5Uyn2Ee1z9vRhUd0d7MnP_pswLeMqGlleDS-gH497&s=10" Group-title="ASEAN U23 CHAMPIONSHIP", SERVER 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
+https://fhlsport121.fjs40b8.xyz/token-J0Ypm7mcIKCGvjQux%2FY6yDiClMOA0y3jPSarxPVOFDHx4OOYHUFdD4gkqBZOW0VJBCeIwDdmmvw%3Da/v3/get/s3/aHR0cHM6Ly9wbGF5LnJ3YWJ3by5jb20=/rrty/sd-1-4337621.m3u8?txSecret=686cdadb0149ff3d50acd5db5b7c357c&txTime=687A4313
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0cLnDzJZ3PN3-nQ5Uyn2Ee1z9vRhUd0d7MnP_pswLeMqGlleDS-gH497&s=10" Group-title="ASEAN U23 CHAMPIONSHIP", SERVER 3
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://v4-6d0674772011a976fb80c0bf6c1ab307.livehwc4.com/pull.chaojiumq.com/live/sd-1-4337620.m3u8?edge_slice=true&txTime=687a1b3a&sub_m3u8=true&txSecret=b354614036bc1b755b7b53d606d4e0b9&user_session_id=8d2fa12b8f9ea5b7f83a2dee3efb58b7
+https://fhlsport121.fjs40b8.xyz/token-JkN%2BybfCfKeG62wtwfY6nTiHlMCDgy7jbXD7wKYdFDens7efHUFdD4gkqBZNXUhJBCeIwDdmmvw%3Da/cfall/s2001/v3b/04s00151nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_609550.m3u8
 
 
 
