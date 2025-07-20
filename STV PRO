@@ -1,6 +1,16 @@
 #EXTM3U
 
 
+
+
+         ===== UFC ======
+                 
+         
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb77ilBWqT9eqqbRHYTt-AUJJYm62PTzVLZsycWjxBsm8G5BQQ20LSKoM&s=10" Group-title="UFC", UFC LIVE
+https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L0kTNxczY3IGNhNDZtcDZmJWLiJjY00CN3gzMtQjNwQ2M4YmM/master.m3u8
+
+
+
          ===== ASEAN U23 ======
                  
          
@@ -32,19 +42,19 @@ https://v4-676ad5a9989e794593dec534489c2d49.livehwc4.com/pull.chaojiumq.com/live
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNIrO-lRENdD1kQR4GENQ6UPRSI9_R2lOlm2HIZ1SKyqp6lhMmI7GPC4Q&s=10" Group-title="MAJOR LEAGUE SOCCER", SERVER 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://hls.uouetrq19.com/live/sd-6MtMPPb4sdn9j2ystT.flv?txSecret=a933dbb46106a19323317b089eb8bae2&txTime=687998FE
+https://hls.uouetrq19.com/live/sd-6MtMPPaLPWvch3hRw5.m3u8?txSecret=5e6d5ea78c9bc903926dbfc972025fac&txTime=687D9A62
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNIrO-lRENdD1kQR4GENQ6UPRSI9_R2lOlm2HIZ1SKyqp6lhMmI7GPC4Q&s=10" Group-title="MAJOR LEAGUE SOCCER", SERVER 2
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://mae2.dbcast.live/ws4ZwN5PnKJm2tUnJwaQyQ/1752743130/322e35362e3234362e32/ff447/playlist.m3u8
+https://tfnl4gr3uomttgr31hctigyzd1ptpqb4sa5dzqcssqh5df3w8o4mq8rho.100ycdn.com/pullws-gsc.hxin99.com/live/dps-59251949-saturn-wsu/playlist.m3u8?wsSecret=1f7dec3b69d7e45767bd2cdd40352eec&wsABSTime=687c7f14&wsSession=94e0d8417328edbbb03ab5a4-175297598943148&wsIPSercert=8759cf1a7d15787ec23be38e0bf37b38&wsiphost=local&wsBindIP=1
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNIrO-lRENdD1kQR4GENQ6UPRSI9_R2lOlm2HIZ1SKyqp6lhMmI7GPC4Q&s=10" Group-title="MAJOR LEAGUE SOCCER", SERVER 3
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://pullws-gsc.hxin99.com/live/dps-59249391-saturn-wsu/playlist.flv?wsSecret=acc25e8567469e7e86b5a827411f3d4d&wsABSTime=68788a94
+https://hls.uouetrq19.com/live/sd-6MtMPPb4iK5wd1kS9u.m3u8?txSecret=9b4d277068250c601032d1cd181d3c7d&txTime=687D9A62
 
 
 
