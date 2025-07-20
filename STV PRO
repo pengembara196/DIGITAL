@@ -6,9 +6,23 @@
          ===== UFC ======
                  
          
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb77ilBWqT9eqqbRHYTt-AUJJYm62PTzVLZsycWjxBsm8G5BQQ20LSKoM&s=10" Group-title="UFC", UFC LIVE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb77ilBWqT9eqqbRHYTt-AUJJYm62PTzVLZsycWjxBsm8G5BQQ20LSKoM&s=10" Group-title="UFC", LIVE 1
 https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L0kTNxczY3IGNhNDZtcDZmJWLiJjY00CN3gzMtQjNwQ2M4YmM/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb77ilBWqT9eqqbRHYTt-AUJJYm62PTzVLZsycWjxBsm8G5BQQ20LSKoM&s=10" Group-title="UFC", LIVE 2
+https://mzr1.dbcast.live/FMrxVV_abHcTOLr1sWa53g/1753006390/3138322e332e36392e3134/ff4672352/playlist.m3u8
+
+
+
+         ===== PBC ======
+                 
+         
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS59ivcdwIdSXL3cBR97UiGLH23lhD7Wup93PmnmYaoxXqT7BPzkEeFzns&s=10" Group-title="PBC", LIVE 1
+https://mzr2.dbcast.live/w-FYVzRd8-MvlyIutyBR6Q/1753006437/3138322e332e36392e3134/ff747/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS59ivcdwIdSXL3cBR97UiGLH23lhD7Wup93PmnmYaoxXqT7BPzkEeFzns&s=10" Group-title="PBC", LIVE 2
+https://mzr1.dbcast.live/weA4VuvXPazHKr_P4i50sw/1753006459/3138322e332e36392e3134/ff441/playlist.m3u8
 
 
          ===== ASEAN U23 ======
@@ -65,13 +79,13 @@ https://hls.uouetrq19.com/live/sd-6MtMPPb4iK5wd1kS9u.m3u8?txSecret=9b4d277068250
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQicVXKAgMXX38xIsjIhz4r39iAWkCCKxqfrQCvMz3ofsX0ZFRb6rwCdWc&s=10" Group-title="DAIHATSU JAPAN OPEN", COURT 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://4c9acbfc5736afa854fa764f3bafa98e.v.smtcdns.net/play.cbalive.weibisai.com/live/3948838464417061_AiHD.m3u8?txSecret=7ec23432e4a83662a7a74aa49eb2acb8&txTime=687C2370
+https://677c74065edbda568d0d054872c9f16b.v.smtcdns.net/play.cbalive.weibisai.com/live/3948838681639061_AiSD.m3u8?txSecret=972d48b48b33f279ec0866bacc3a85fc&txTime=687D8300
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQicVXKAgMXX38xIsjIhz4r39iAWkCCKxqfrQCvMz3ofsX0ZFRb6rwCdWc&s=10" Group-title="DAIHATSU JAPAN OPEN", HD
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court1HB_sjb720.m3u8?title=8195587&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=nqf8IL2zsRACAWeBlj5cESeP&cdnQuality=720p&quality=4&multi_raw_stream=YMQ-Court1HB&ccode=live05030101&expire=21600&psid=8DFE94A28F948A7FE436E9A2691A83DE&ups_client_netip=114.125.5.1&ups_ts=1752897183&ups_userid=0&utid=nqf8IL2zsRACAWeBlj5cESeP&vid=8195587_8120785&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court1HB_sjb720&vkey=Bdb350d9cda24d782ee457e88c04a253b&cug=10&t=5cba7d072ca4e38&rid=200000006399755E04298F3215C76C21CFC3058D00000000
+https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court1HB_sjb720.m3u8?title=8195587&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=ot4BIdZaNi0CAcpX3XGExbmf&cdnQuality=720p&quality=4&multi_raw_stream=YMQ-Court1HB&ccode=live05030101&expire=21600&psid=E0C121CC2DADCCE750AE3DC3F943AE9B&ups_client_netip=202.87.221.113&ups_ts=1752976816&ups_userid=0&utid=ot4BIdZaNi0CAcpX3XGExbmf&vid=8195587_8120785&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court1HB_sjb720&vkey=Bf57c5254cc2bf0f7ab96dfef2a89efba&cug=10&t=3f1447f92b38b23&rid=200000006399755E04298F3215C76C21CFC3058D00000000
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQicVXKAgMXX38xIsjIhz4r39iAWkCCKxqfrQCvMz3ofsX0ZFRb6rwCdWc&s=10" Group-title="DAIHATSU JAPAN OPEN", COURT 3
@@ -115,7 +129,7 @@ https://fhlsport121.fjs40b8.xyz/token-LBN4ybPBePSG72N6kPY6ymyFlJrU1ivjbiSjw6YaRD
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ID3cNX5MkSkdvHoO_Igk1sdSv_g=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/18954/volleyball-nations-league-cover-d06332.jpg" Group-title="VOLLEYBALL NATIONS LEAGUE", SERVER 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://jn184.sportvideodata.com/3759026235_UTM4ETMxAzN/o8-1.m3u8?sign=R0cHM6Ly9lZGcwMC5zbXl0ZHJ5dC5saXZlLzE5Mzc4NzQzMTRfY2hhbm5lbDIvcGxheWxpc3QubTN1OD9tYXRjaF9pZD0xMjk2NzYzMyZzX2lkPTQmdF9pZD0zNTU0JnN0YXRzPXN0YXRzd2lubGluZS5ieSZ0aW1lc3RhbXA9MTc1MjkwNjY1NCZrZXk9VlRKR2MyUkhWbXRZTVM4dk1XeFFlbXRPTjFJNGRGTXdRVTEzZEVoRVVXUkhOVEY2TTFWd1oyaDBhbTU0VGxGSE9VSjRhbk0zWW1aNWFXVkNORVJvWXpNNGFubFhPREUxWWpKcloxWjFOM1pOYzFoc2F6UkJVek5pTTFJeFJDOHpkREk0TWtoUE1WSkdabnBhU0hWaWNFUXJVbkZZUTJ0TmRtTTJXVXg2ZFdkbFVGWnlVMnN6YUhCNFNraG9jbEpQUTBFNFNXWklTMDk1Tm1KNE5USTFSM1IyV0dwS2NFcFFXR3B6UFElM0QlM0QkfCQwaH
+https://ab1.dbcast.live/ergvb4.m3u8?m=xe9Yv_YjuUuau9iB39ixtQ&c=vb4&p=3138322e332e36392e3134&e=1753006557
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ID3cNX5MkSkdvHoO_Igk1sdSv_g=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/18954/volleyball-nations-league-cover-d06332.jpg" Group-title="VOLLEYBALL NATIONS LEAGUE", SERVER 2
