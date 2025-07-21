@@ -3,41 +3,20 @@
 
 
 
-         ===== UFC ======
-                 
-         
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb77ilBWqT9eqqbRHYTt-AUJJYm62PTzVLZsycWjxBsm8G5BQQ20LSKoM&s=10" Group-title="UFC", LIVE 1
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L0kTNxczY3IGNhNDZtcDZmJWLiJjY00CN3gzMtQjNwQ2M4YmM/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb77ilBWqT9eqqbRHYTt-AUJJYm62PTzVLZsycWjxBsm8G5BQQ20LSKoM&s=10" Group-title="UFC", LIVE 2
-https://mzr1.dbcast.live/FMrxVV_abHcTOLr1sWa53g/1753006390/3138322e332e36392e3134/ff4672352/playlist.m3u8
-
-
-
-         ===== PBC ======
-                 
-         
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS59ivcdwIdSXL3cBR97UiGLH23lhD7Wup93PmnmYaoxXqT7BPzkEeFzns&s=10" Group-title="PBC", LIVE 1
-https://mzr2.dbcast.live/w-FYVzRd8-MvlyIutyBR6Q/1753006437/3138322e332e36392e3134/ff747/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS59ivcdwIdSXL3cBR97UiGLH23lhD7Wup93PmnmYaoxXqT7BPzkEeFzns&s=10" Group-title="PBC", LIVE 2
-https://mzr1.dbcast.live/weA4VuvXPazHKr_P4i50sw/1753006459/3138322e332e36392e3134/ff441/playlist.m3u8
-
 
          ===== ASEAN U23 ======
                  
          
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0cLnDzJZ3PN3-nQ5Uyn2Ee1z9vRhUd0d7MnP_pswLeMqGlleDS-gH497&s=10" Group-title="ASEAN U23 CHAMPIONSHIP", SERVER 1
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://hls.uouetrq19.com/live/sd-6MuSNPUaDNpu92DNkX.m3u8?txSecret=d40cbea88e9e5a7bb5e26b3e9da6929e&txTime=687CC28A
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0cLnDzJZ3PN3-nQ5Uyn2Ee1z9vRhUd0d7MnP_pswLeMqGlleDS-gH497&s=10" Group-title="ASEAN U23 CHAMPIONSHIP", SERVER 2
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://tfnk4gr3uomttgr31hctigyzdrptpqb4sa5dzqcssqh5df3w8o4mq8rho.100ycdn.com/pullws-gsc.hxin99.com/live/dps-59250833-saturn-wsu/playlist.m3u8?wsSecret=74144a8c638653233158de8995857f15&wsABSTime=687bb32c&wsSession=343091e978ed59883a6e9498-175292100043860&wsIPSercert=baca206c4e022ac789f0f47795689b91&wsiphost=local&wsBindIP=1
+https://bintangstreaming.my.id/tv_digital/channel.php?id=Indosiar
 
 
 
@@ -73,22 +52,22 @@ https://hls.uouetrq19.com/live/sd-6MtMPPb4iK5wd1kS9u.m3u8?txSecret=9b4d277068250
 
 
 
-           ==========JAPAN OPEN=======
+           ==========CHINA OPEN=======
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQicVXKAgMXX38xIsjIhz4r39iAWkCCKxqfrQCvMz3ofsX0ZFRb6rwCdWc&s=10" Group-title="DAIHATSU JAPAN OPEN", COURT 1
+#EXTINF:-1 tvg-logo="https://cms.westjavatoday.com/uploads/images/2025/07/image_380x226_6879b40b2b23b.jpg" Group-title="VICTOR CHINA OPEN", COURT 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQicVXKAgMXX38xIsjIhz4r39iAWkCCKxqfrQCvMz3ofsX0ZFRb6rwCdWc&s=10" Group-title="DAIHATSU JAPAN OPEN", HD
+#EXTINF:-1 tvg-logo="https://cms.westjavatoday.com/uploads/images/2025/07/image_380x226_6879b40b2b23b.jpg" Group-title="VICTOR CHINA OPEN", HD
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQicVXKAgMXX38xIsjIhz4r39iAWkCCKxqfrQCvMz3ofsX0ZFRb6rwCdWc&s=10" Group-title="DAIHATSU JAPAN OPEN", COURT 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=https://cms.westjavatoday.com/uploads/images/2025/07/image_380x226_6879b40b2b23b.jpg" Group-title="VICTOR CHINA OPEN", COURT 3
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 
@@ -122,7 +101,7 @@ https://hls.uouetrq19.com/live/sd-6MtMPPb4iK5wd1kS9u.m3u8?txSecret=9b4d277068250
 
 
 
-                      ==========VNL===========
+                 ==========VNL===========
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ID3cNX5MkSkdvHoO_Igk1sdSv_g=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/18954/volleyball-nations-league-cover-d06332.jpg" Group-title="VOLLEYBALL NATIONS LEAGUE", SERVER 1
@@ -144,7 +123,7 @@ https://x4new.newkso.ru/x4/sportklub3serbia/mono.m3u8
 
 
 
-                              ==========NASIONAL===========
+             ==========NASIONAL===========
 
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjxw6WRd9xYbW32DdRtj_Ss1zxwzbZdqoe_mECGfdY7kdD56GphocBouJKs3yAUt8yg1rWI-0eHCgCdYYX8AQOqH0-Hz3egnZ_Tc5tiGl223c5a6DLSYpuumq5satujOP_0Y7Dyron_DPfs15Rw_E3Oe9UJ3Fvv2sc8YTv3gqig7p3RboYEfkOG4aV5QbE", MNCTV HD
