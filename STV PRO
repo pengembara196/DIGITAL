@@ -2,36 +2,6 @@
 
 
 
-           ==========MACAU OPEN=======
-
-
-#EXTINF:-1 tvg-logo="https://totallympics.com/uploads/monthly_2025_07/maxresdefault.jpg.58be187831c2180d610358be2714ae0d.jpg" Group-title="MACAU OPEN", COURT 1
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://7e86d2bafe2218ebd6fabec2d6fe49d0.v.smtcdns.net/play.cbalive.weibisai.com/live/3961776680474061_AiHD.m3u8?txSecret=2e3486b514a87cc701c6af6e828a74fd&txTime=688AB200
-
-
-#EXTINF:-1 tvg-logo="https://totallympics.com/uploads/monthly_2025_07/maxresdefault.jpg.58be187831c2180d610358be2714ae0d.jpg" Group-title="MACAU OPEN", COURT 2
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://7e86d2bafe2218ebd6fabec2d6fe49d0.v.smtcdns.net/play.cbalive.weibisai.com/live/3961776862414061_AiHD.m3u8?txSecret=ff98ac2e150f9b25182a3319f17f20dc&txTime=688AB200
-
-
-
-#EXTINF:-1 tvg-logo="https://totallympics.com/uploads/monthly_2025_07/maxresdefault.jpg.58be187831c2180d610358be2714ae0d.jpg" Group-title="MACAU OPEN", COURT 3
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://7e86d2bafe2218ebd6fabec2d6fe49d0.v.smtcdns.net/play.cbalive.weibisai.com/live/3961777020734061_AiHD.m3u8?txSecret=20dc743e422eeb99e9e4bcd9d2a15c20&txTime=688AB200
-
-
-
-#EXTINF:-1 tvg-logo="https://totallympics.com/uploads/monthly_2025_07/maxresdefault.jpg.58be187831c2180d610358be2714ae0d.jpg" Group-title="MACAU OPEN", COURT 4
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://b188f789c84dcab4371c6e06ad24ca1e.v.smtcdns.net/play.cbalive.weibisai.com/live/3961777212532061_AiHD.m3u8?txSecret=6ad8cb39dff525c911b132a489d5a216&txTime=688AB200
-
-
-
 
              ==========NASIONAL===========
 
@@ -1176,7 +1146,40 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
 
 
+            =======EPL=======
 
+
+
+
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",live event 01
+http://goldenpro.xyz:80/VUVZ89R/4EXX322/1015547
+
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",live event 02
+http://goldenpro.xyz:80/VUVZ89R/4EXX322/1015548
+
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",live event 03
+http://goldenpro.xyz:80/VUVZ89R/4EXX322/1015549
+
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",live event 04
+http://goldenpro.xyz:80/VUVZ89R/4EXX322/1015550
+
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",live event 05
+http://goldenpro.xyz:80/VUVZ89R/4EXX322/1015551
+
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",live event 06
+http://goldenpro.xyz:80/VUVZ89R/4EXX322/1015552
+
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",live event 07
+http://goldenpro.xyz:80/VUVZ89R/4EXX322/1015553
+
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",live event 08
+http://goldenpro.xyz:80/VUVZ89R/4EXX322/1015554
+
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",live event 09
+http://goldenpro.xyz:80/VUVZ89R/4EXX322/1100810
+
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",live event 10
+http://goldenpro.xyz:80/VUVZ89R/4EXX322/1100811
 
 
                   ==========SPORT========
