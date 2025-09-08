@@ -1,10 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvM2g8f3w99zXImEpWpunQAO1lZh2rtEtdgPwT6y5BsnA8DoGxjI0kxwc&s=10" Group-title="FRIENDLY MATCH", CH 1
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://hls.suanzsd6.com/sd-6MvY6eTRHidqu1jELF.m3u8?txSecret=091510c54792688c1b442def07602260&txTime=68BC372E
 
+
+#EXTINF:-1 tvg-logo="" Group-title="FRIENDLY MATCH", SERVER 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8eb3c9b8502f4529eeccf966aa808968:b01da1fcd514bdfdf01e86ec1b61f7f5
+https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/stream/19497/file/drm/dash/19497_stream.mpd?hdnts=exp=1757351407~acl=/stream/19497/file/*~id=49257797~hmac=94c8f99a1af06e55c234e8729da24cddd64c4e9a76f672444e525b9091892989
 
 
              ==========NASIONAL===========
@@ -1155,35 +1157,39 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
 
 
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",live event 01
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST_CXCor0aZV6Em6XCHfQp1mwk5YCCcbfMHPgf8hbq2K7MsJ1CIh1wwWI&s=10",live event 01
 http://goldenpro.xyz:80/VUVZ89R/4EXX322/1015547
 
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",live event 02
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST_CXCor0aZV6Em6XCHfQp1mwk5YCCcbfMHPgf8hbq2K7MsJ1CIh1wwWI&s=10",live event 02
 http://goldenpro.xyz:80/VUVZ89R/4EXX322/1015548
 
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",live event 03
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST_CXCor0aZV6Em6XCHfQp1mwk5YCCcbfMHPgf8hbq2K7MsJ1CIh1wwWI&s=10",live event 03
 http://goldenpro.xyz:80/VUVZ89R/4EXX322/1015549
 
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",live event 04
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST_CXCor0aZV6Em6XCHfQp1mwk5YCCcbfMHPgf8hbq2K7MsJ1CIh1wwWI&s=10",live event 04
 http://goldenpro.xyz:80/VUVZ89R/4EXX322/1015550
 
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",live event 05
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST_CXCor0aZV6Em6XCHfQp1mwk5YCCcbfMHPgf8hbq2K7MsJ1CIh1wwWI&s=10",live event 05
 http://goldenpro.xyz:80/VUVZ89R/4EXX322/1015551
 
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",live event 06
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST_CXCor0aZV6Em6XCHfQp1mwk5YCCcbfMHPgf8hbq2K7MsJ1CIh1wwWI&s=10",live event 06
 http://goldenpro.xyz:80/VUVZ89R/4EXX322/1015552
 
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",live event 07
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST_CXCor0aZV6Em6XCHfQp1mwk5YCCcbfMHPgf8hbq2K7MsJ1CIh1wwWI&s=10",live event 07
 http://goldenpro.xyz:80/VUVZ89R/4EXX322/1015553
 
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",live event 08
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST_CXCor0aZV6Em6XCHfQp1mwk5YCCcbfMHPgf8hbq2K7MsJ1CIh1wwWI&s=10",live event 08
 http://goldenpro.xyz:80/VUVZ89R/4EXX322/1015554
 
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",live event 09
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST_CXCor0aZV6Em6XCHfQp1mwk5YCCcbfMHPgf8hbq2K7MsJ1CIh1wwWI&s=10",live event 09
 http://goldenpro.xyz:80/VUVZ89R/4EXX322/1100810
 
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",live event 10
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST_CXCor0aZV6Em6XCHfQp1mwk5YCCcbfMHPgf8hbq2K7MsJ1CIh1wwWI&s=10",live event 10
 http://goldenpro.xyz:80/VUVZ89R/4EXX322/1100811
+
+
+
+
 
 
                   ==========SPORT========
