@@ -2,11 +2,12 @@
 
 
 
-#EXTINF:-1 tvg-logo="" Group-title="FRIENDLY MATCH", SERVER 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8eb3c9b8502f4529eeccf966aa808968:b01da1fcd514bdfdf01e86ec1b61f7f5
-https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/stream/19497/file/drm/dash/19497_stream.mpd?hdnts=exp=1757351407~acl=/stream/19497/file/*~id=49257797~hmac=94c8f99a1af06e55c234e8729da24cddd64c4e9a76f672444e525b9091892989
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsR_vgGFnE05wm6n3H-KtsbGqI4rIQee_TNhFfeIK4LvhbrBzmpyvKTTX0&s=10" Group-title="LIVE EVENT", LIVE 1
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
+https://live.bbapcall.com/live/sd-1-4346722.m3u8?txSecret=09f3435e1b2d5e72a8696365f1f4e4ab&txTime=68C05ED6
+
+
 
 
              ==========NASIONAL===========
