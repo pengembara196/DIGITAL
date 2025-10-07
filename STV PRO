@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsR_vgGFnE05wm6n3H-KtsbGqI4rIQee_TNhFfeIK4LvhbrBzmpyvKTTX0&s=10" Group-title="LIVE EVENT", LIVE 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUmM9UbJwcnHIcH5XdcdplQzzTRklXMnQwYSzftnQDcA&s=10" Group-title="LIVE EVENT", LIVE 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTVLCOPT:http-referrer=https://visionplus.id/
